@@ -1,0 +1,20 @@
+{
+  "translation": {
+    "hello": "Hi",
+    "settings": "Settings",
+    "language": "Language",
+    "chooseLanguage": "Choose a language",
+    "about": "About",
+    "examples": "Examples",
+    "examples1": "Сome up with which cryptocurrencies to buy",
+    "examples2": "Where is it profitable to sell cryptocurrency",
+    "capabilities": "Capabilities",
+    "capabilities1": "Remembers what user said earlier in the conversation",
+    "capabilities2": "Allows user to provide follow up corrections",
+    "limitations": "Limitations",
+    "limitations1": "May occasionally generate incorrect information",
+    "limitations2": "Limited knowledge of world and events after 2024",
+    "copy": "copy",
+    "getStarted": "Get Started"
+  }
+}

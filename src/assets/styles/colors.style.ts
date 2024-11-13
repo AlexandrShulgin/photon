@@ -1,0 +1,1 @@
+export const statusBarBlue = "rgba(0, 12, 124, 0.56)";
