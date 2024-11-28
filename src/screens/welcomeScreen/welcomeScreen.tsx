@@ -8,9 +8,7 @@ import MainButton from "../../components/mainButton/mainButton";
 
 const WelcomeScreen: React.FC = () => {
   const { t, PhotonIcon, onPressToStart, aiConnect, openPrivacyPolicy } = welcomeScreenHook();
-  if (aiConnect && aiConnect.url) {
-    return <WebView source={{ uri: aiConnect.url }} />;
-  }
+  
   return (
     <LinearGradient
       colors={[
